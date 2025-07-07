@@ -2,3 +2,9 @@ mkdir
 testing hai 
 pull testing k liye ye line edit kare hai hamne 
 ok na m ,,, av pull karenge 
+dewddd
+dedfndn
+dmd
+fdf
+10) What happens if you lose access to the remote backend storing your state?* 
+➡️ *Answer* : All Terraform operations fail until access is restored. Teams can't collaborate, and changes can't be applied safely. This effectively blocks all infrastructure changes.
